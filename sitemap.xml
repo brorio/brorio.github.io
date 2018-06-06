@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://brorio.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/topics/</loc>
+    <loc>https://brorio.github.io/topics/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://brorio.github.io/</loc>
     <priority>0</priority>
   </url>
   
